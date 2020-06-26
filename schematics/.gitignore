@@ -1,0 +1,6 @@
+*.bin
+*.dsn
+*.rules
+logs/
+*.ses
+fp-info-cache
